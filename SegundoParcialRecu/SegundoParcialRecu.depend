@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1670428259 source:d:\codeblocks\segundoparcialrecu\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"usuario.h"
+	"LinkedList.h"
+	"parser.h"
+	"input.h"
+
+1670413935 source:d:\codeblocks\segundoparcialrecu\input.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	"input.h"
+
+1670414129 d:\codeblocks\segundoparcialrecu\input.h
+
+1670428290 source:d:\codeblocks\segundoparcialrecu\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"usuario.h"
+
+1670414129 d:\codeblocks\segundoparcialrecu\linkedlist.h
+
+1670415196 d:\codeblocks\segundoparcialrecu\usuario.h
+
+1670414129 d:\codeblocks\segundoparcialrecu\parser.h
+
+1670428055 source:d:\codeblocks\segundoparcialrecu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"LinkedList.h"
+	"Controller.h"
+	"usuario.h"
+	"input.h"
+
+1670417407 d:\codeblocks\segundoparcialrecu\controller.h
+	"usuario.h"
+
+1670416333 source:d:\codeblocks\segundoparcialrecu\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"usuario.h"
+
+1670416333 source:d:\codeblocks\segundoparcialrecu\usuario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"usuario.h"
+
